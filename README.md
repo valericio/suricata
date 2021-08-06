@@ -6,7 +6,7 @@ Desafio Suricata utilizando Bootstrap
 
 Ninguno
 
-## Construido con 🛠�?
+## Construido con 🛠?
 
 * [ATOM](https://atom.io/) - Editor de Texto
 
